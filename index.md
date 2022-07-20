@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
 You can use the [editor on GitHub](https://github.com/Bioboy-Learning/lljh.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# 天行健，君子以自强不息
 ## Header 2
 ### Header 3
 
